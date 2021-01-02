@@ -1,7 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Jane Doe",
+	"author": "hafrei",
 	"version": "0.0.1",
+	"description": "Learning how to do API programming in NPM, of all things.",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
