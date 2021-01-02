@@ -3,6 +3,7 @@
 	"author": "hafrei",
 	"version": "0.0.1",
 	"description": "Learning how to do API programming in NPM, of all things.",
+	"keywords": [ "ham", "freecodecamp", "helo", "pain-in-the-butt"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
