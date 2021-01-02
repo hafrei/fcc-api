@@ -1,7 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "hafrei",
-	"version": "0.0.1",
+	"version": "1.2.0",
 	"description": "Learning how to do API programming in NPM, of all things.",
 	"keywords": [ "ham", "freecodecamp", "helo", "pain-in-the-butt"],
 	"dependencies": {
