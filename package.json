@@ -5,7 +5,8 @@
 	"description": "Learning how to do API programming in NPM, of all things.",
 	"keywords": [ "ham", "freecodecamp", "helo", "pain-in-the-butt"],
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
